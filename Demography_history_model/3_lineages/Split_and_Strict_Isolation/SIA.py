@@ -7,8 +7,6 @@ from dadi.Spectrum_mod import Spectrum
 
 
 #############################################################
-# STANDARD ISOLATION MODEL - AB and 2 others lineages split
-# Recent split between ABPG and PG (SIA) - no migration
 #
 #         |
 #         |

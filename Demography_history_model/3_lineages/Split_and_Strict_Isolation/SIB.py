@@ -13,8 +13,6 @@ from dadi import Numerics, PhiManip, Integration, Inference
 from dadi.Spectrum_mod import Spectrum
 
 ###########################################################
-# STANDARD ISOLATION MODEL PG and 2 others lineages split
-# Recent split between ABPG and AB (SIB) - no migration
 #
 #         |
 #         |

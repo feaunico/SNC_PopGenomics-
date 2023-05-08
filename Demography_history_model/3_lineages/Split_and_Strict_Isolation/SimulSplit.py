@@ -7,15 +7,13 @@ from dadi.Spectrum_mod import Spectrum
 
 
 #############################################################
-# STANDARD ISOLATION MODEL - AB and 2 others lineages split
-# Recent split between ABPG and PG (SIA) - no migration
 #
 #         |
 #         |
 #     --------
 #    |   |    |
 #    |   |    |
-#    L2  L4   L1
+#    L2  L1c L1i
 #
 ##############################################################
 
