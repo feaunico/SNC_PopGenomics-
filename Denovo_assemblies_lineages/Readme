@@ -1,1 +1,6 @@
+Automated de novo assembly of Oxford Nanopore (MinION) & Illumina HiSeq reads with Flye ver. 2.9.1. Assembly polishing with Racoon (ON reads) and
+Pilon.
 
+usage: python Flye_assbly_polish.py
+
+require BWA, minimap2, Pilon, Racoon, Flye
