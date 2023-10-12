@@ -4,3 +4,5 @@ Pilon.
 usage: python Flye_assbly_polish.py
 
 require BWA, minimap2, Pilon, Racoon, Flye
+
+Includes 4 rounds of polishin with Oxford Nanopore reads with Racon and 8 rounds of polishing with Illumina PE reads with Pilon.
